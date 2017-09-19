@@ -1,1 +1,1 @@
-# Web-search-engine
+# Given a dump data of around 63 GB, search the given query and list our the titles of top 10 relevant documents related to that query.Initially do the parsing of the xml file to get the content and do preprocessing of the text. Further create posting list for each word and then do indexing using external merge sort. Now for the given query calculate tfidf of the documents and the top 10 is your answer. 
